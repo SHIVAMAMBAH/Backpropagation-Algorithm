@@ -12,15 +12,15 @@
 - **Topic 2.1**: What is Backpropagation?
   - The concept of training neural networks using backpropagation
   - Real-world importance and applications
-- **Lecture 2.2**: The Mathematics Behind Backpropagation
+- **Topic 2.2**: The Mathematics Behind Backpropagation
   - Calculus refresher: Partial derivatives and chain rule
   - Gradient descent overview and its optimization role
 
 #### **Module 3: The Backpropagation Process**
-- **Lecture 3.1**: Step-by-Step Derivation
+- **Topic 3.1**: Step-by-Step Derivation
   - Error calculation using loss functions (e.g., Mean Squared Error)
   - Forward pass: Propagating input through the network
-- **Lecture 3.2**: Backward Pass: The Core Algorithm
+- **Topic 3.2**: Backward Pass: The Core Algorithm
   - Calculating output layer errors
   - Propagating errors back through hidden layers
   - Adjusting weights and biases using learning rates
