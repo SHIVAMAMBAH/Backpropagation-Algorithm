@@ -1,6 +1,6 @@
 ## <div align = "center">Backpropagation-Algorithm</div>
 
-#### **Module 1: Introduction to Neural Networks**
+#### **Chapter 1: Introduction to Neural Networks**
 - **Topic 1.1**: Overview of Neural Networks
   - History and evolution of neural networks
   - Basic architecture: Neurons, layers, and activation functions
