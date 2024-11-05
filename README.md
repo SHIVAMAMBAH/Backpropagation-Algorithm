@@ -16,7 +16,7 @@
   - Calculus refresher: Partial derivatives and chain rule
   - Gradient descent overview and its optimization role
 
-#### **Module 3: The Backpropagation Process**
+#### **Chapter 3: The Backpropagation Process**
 - **Topic 3.1**: Step-by-Step Derivation
   - Error calculation using loss functions (e.g., Mean Squared Error)
   - Forward pass: Propagating input through the network
