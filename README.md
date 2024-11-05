@@ -28,7 +28,7 @@
   - A simple implementation from scratch
   - Debugging common issues and practical tips
 
-#### **Module 4: Advanced Topics in Backpropagation**
+#### **Chapter 4: Advanced Topics in Backpropagation**
 - **Topic 4.1**: Stochastic, Batch, and Mini-batch Gradient Descent
   - Differences and applications in training
 - **Topic 4.2**: Optimizers Beyond Basic Gradient Descent
