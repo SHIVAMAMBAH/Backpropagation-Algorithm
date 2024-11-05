@@ -1,2 +1,2 @@
-# Backpropagation-Algorithm
-Backpropagation Algorithm
+## <div align = "center">Backpropagation-Algorithm</div>
+
