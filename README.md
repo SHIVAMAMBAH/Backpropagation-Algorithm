@@ -37,7 +37,7 @@
   - The vanishing and exploding gradient problem
   - Potential solutions like ReLU and weight initialization techniques
 
-#### **Module 5: Applications and Practical Tips**
+#### **Chapter 5: Applications and Practical Tips**
 - **Topic 5.1**: Backpropagation in Real Neural Network Frameworks
   - Overview of TensorFlow and PyTorch implementations
   - Hands-on example with simple datasets
