@@ -4,12 +4,12 @@
 - **Topic 1.1**: Overview of Neural Networks
   - History and evolution of neural networks
   - Basic architecture: Neurons, layers, and activation functions
-- **Lecture 1.2**: Understanding Feedforward Neural Networks
+- **Topic 1.2**: Understanding Feedforward Neural Networks
   - How information flows through a network
   - Role of weights and biases
 
 #### **Module 2: Foundations of Backpropagation**
-- **Lecture 2.1**: What is Backpropagation?
+- **Topic 2.1**: What is Backpropagation?
   - The concept of training neural networks using backpropagation
   - Real-world importance and applications
 - **Lecture 2.2**: The Mathematics Behind Backpropagation
