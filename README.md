@@ -46,7 +46,7 @@
 - **Topic 5.3**: Case Study: Training a Network to Recognize Handwritten Digits (MNIST)
   - Complete walkthrough with code and visualization
 
-#### **Module 6: Project and Course Conclusion**
+#### **Chapter 6: Project and Course Conclusion**
 - **Topic 6.1**: Final Project: Implementing a Custom Neural Network with Backpropagation
   - Creating a network to solve a real-world problem (e.g., simple image classification)
 - **Topic 6.2**: Best Practices and Future Learning Paths
