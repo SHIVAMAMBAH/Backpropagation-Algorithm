@@ -8,7 +8,7 @@
   - How information flows through a network
   - Role of weights and biases
 
-#### **Module 2: Foundations of Backpropagation**
+#### **Chapter 2: Foundations of Backpropagation**
 - **Topic 2.1**: What is Backpropagation?
   - The concept of training neural networks using backpropagation
   - Real-world importance and applications
